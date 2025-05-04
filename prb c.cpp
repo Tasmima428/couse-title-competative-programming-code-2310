@@ -7,4 +7,7 @@ int main()
  cout<<a<<" + "<<b<<" = "<<a+b<<endl;
  cout<<a<<" * "<<b<<" = "<<a*b<<endl;
  cout<<a<<" - "<<b<<" = "<<a-b<<endl;
- }
+for (int i = 1; i <= 10; i++) {
+    cout << i << endl;
+}
+}
